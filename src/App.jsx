@@ -361,9 +361,9 @@ function App() {
                   fontWeight: 500,
                 }}
               >
-                Maa Sundari Bhavani is Rajkot's premier destination for
-                handpicked gift articles. We believe in quality, uniqueness, and
-                the art of giving.
+                Maa Sundari Bhavani Gift Article Private Limited is Rajkot's
+                premier destination for handpicked gift articles. We believe in
+                quality, uniqueness, and the art of giving.
               </Typography>
 
               {/* Stats: Clean & Horizontal */}
@@ -716,9 +716,9 @@ function App() {
                       Store Address
                     </Typography>
                     <Typography variant="body1" sx={{ color: "#5F6368" }}>
-                      Maa Sundari Bhavani Gift Article, <br />
+                      MAA SUNDARI BHAVANI GIFT ARTICLE PRIVATE LIMITED, <br />
                       Mavdi Chowkdi Main Road, Opp. Jitariya Bala Hanumanji
-                      Temple, Rajkot - 360004
+                      Temple, Rajkot, Gujarat - 360004
                     </Typography>
                   </Box>
                 </Box>
@@ -830,8 +830,8 @@ function App() {
         }}
       >
         <Typography variant="body2" sx={{ color: "#5F6368", fontWeight: 500 }}>
-          © {new Date().getFullYear()} MAA SUNDARI BHAVANI GIFTS. ALL RIGHTS
-          RESERVED.
+          © {new Date().getFullYear()} MAA SUNDARI BHAVANI GIFT ARTICLE PRIVATE
+          LIMITED ALL RIGHTS RESERVED.
         </Typography>
       </Box>
 

@@ -806,14 +806,14 @@ function App() {
               >
                 <iframe
                   title="MSB Gifts Exact Location"
-                  src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3691.758!2d70.781083!3d22.26386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDE1JzQ5LjkiTiA3MMKwNDcnMDEuMiJF!5e0!3m2!1sen!2sin!4v1711180000000!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d328.7319110741576!2d70.78378404461985!3d22.26379862629604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959ca5cf55751ab%3A0xa950be2470fe36c!2sTODAY%20ICE%20CREAM!5e1!3m2!1sen!2sin!4v1774435345399!5m2!1sen!2sin"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
-                  allowFullScreen=""
+                  allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                ></iframe>
+                />
               </Box>
             </Box>
           </Box>

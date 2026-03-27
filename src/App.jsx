@@ -96,7 +96,7 @@ function App() {
                       variant="caption"
                       sx={{ color: "white", fontWeight: 500 }}
                     >
-                      maasundribhavanigiftarticles@gmail.com
+                      maasundaribhavanigiftarticle@gmail.com
                     </Typography>
                   </Stack>
                   <Stack direction="row" alignItems="center" spacing={1}>
@@ -742,7 +742,7 @@ function App() {
                       Email Address
                     </Typography>
                     <Typography variant="body1" sx={{ color: "#5F6368" }}>
-                      maasundribhavanigiftarticles@gmail.com
+                      maasundaribhavanigiftarticle@gmail.com
                     </Typography>
                   </Box>
                 </Box>
